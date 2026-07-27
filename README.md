@@ -299,16 +299,6 @@ Instead, its role has been documented within the project architecture and implem
 
 ---
 
-### Screenshot 9 – Amazon Redshift Configuration (Documentation)
-
-![Screenshot 9](screenshots/09-redshift-cluster-created.png)
-
----
-
-### Screenshot 10 – Amazon Redshift Query Editor (Documentation)
-
-![Screenshot 10](screenshots/10-redshift-query-editor.png)
-
 ---
 
 ## Step 5: AWS Database Migration Service (AWS DMS)
@@ -413,7 +403,7 @@ AWS successfully invoked the function and returned an HTTP 200 status code indic
 
 The image below confirms successful execution of the Lambda function.
 
-![Screenshot 13](screenshots/13-lambda-test-success.png)
+![Screenshot 13](screenshots/13-lamba-test-sucess.png)
 
 ---
 
